@@ -125,10 +125,6 @@
 				<Delete>true</Delete>
 			</CraftCost>
 			<CraftCost>
-				<Key>MassStorageInputPortMK1</Key>
-				<Amount>1</Amount>
-			</CraftCost>
-			<CraftCost>
 				<Key>IronBar</Key>
 				<Amount>15</Amount>
 			</CraftCost>		
