@@ -5,4 +5,9 @@
 		<IsOverride>true</IsOverride>
 		<isGarbage>false</isGarbage>
 	</TerrainDataEntry>	
+	<TerrainDataEntry>
+		<Key>Plant</Key>
+		<IsOverride>true</IsOverride>
+		<isGarbage>true</isGarbage>
+	</TerrainDataEntry>	
 </ArrayOfTerrainDataEntry>
